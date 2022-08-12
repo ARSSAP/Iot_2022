@@ -1,0 +1,18 @@
+Introduction
+Need to measure water quality and other parameters but haven't got any low cost pH meter? Find it difficult to use with Arduino? Here comes an analog pH meter, specially designed for Arduino controllers and has built-in simple, convenient and practical connection and features. It has an LED which works as the Power Indicator, a BNC connector and PH2.0 sensor interface. To use it, just connect the pH sensor with BNC connector, and plug the PH2.0 interface into the analog input port of any Arduino controller. If pre-programmed, you will get the pH value easily. Comes in compact plastic box with foams for better mobile storage. Attention:In order to ensure the accuracy of the pH probe, you need to use the standard solution to calibrate it regularly.Generally, the period is about half a year. If you meaure the dirty aqueous solution, you need to increase the frequency of calibration.
+
+Applications
+Water quality testing
+Aquaculture
+Specification
+Module Power : 5.00V
+Module Size : 43mm×32mm
+Measuring Range:0-14PH
+Measuring Temperature :0-60 ℃
+Accuracy : ± 0.1pH (25 ℃)
+Response Time : ≤ 1min
+pH Sensor with BNC Connector
+PH2.0 Interface ( 3 foot patch )
+Gain Adjustment Potentiometer
+Power Indicator LED
+Cable Length from sensor to BNC connector:660mm

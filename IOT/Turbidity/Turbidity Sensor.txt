@@ -1,0 +1,17 @@
+Introduction
+The gravity arduino turbidity sensor detects water quality by measuring the levels of turbidity, or the opaqueness. It uses light to detect suspended particles in water by measuring the light transmittance and scattering rate, which changes with the amount of total suspended solids (TSS) in water. As the TTS increases, the liquid turbidity level increases. Turbidity sensors are used to measure water quality in rivers and streams, wastewater and effluent measurements, control instrumentation for settling ponds, sediment transport research and laboratory measurements. This liquid sensor provides analog and digital signal output modes. The threshold is adjustable when in digital signal mode. You can select the mode according to your MCU.
+
+warning_yellow.png NOTE: The top of probe is not waterproof.
+
+Specification
+Operating Voltage: 5V DC
+Operating Current: 40mA (MAX)
+Response Time : <500ms
+Insulation Resistance: 100M (Min)
+Output Method:
+Analog output: 0-4.5V
+Digital Output: High/Low level signal (you can adjust the threshold value by adjusting the potentiometer)
+Operating Temperature: 5℃~90℃
+Storage Temperature: -10℃~90℃
+Weight: 30g
+Adapter Dimensions: 38mm*28mm*10mm/1.5inches *1.1inches*0.4inches

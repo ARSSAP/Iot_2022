@@ -1,0 +1,30 @@
+Introduction
+This Gravity: liquid flow sensor is designed based on the electromagnetic principle. It adopts O-ring rubber seal and uses silicone sealant at the outlet end to strength water-resistance. With high anti-interference and anti-impact, the sensor offers reliable performance and long service life. Also, it is designed with G3/4 thread connectors for easy installation.
+The sensor can be used with microcontrollers like Arduino UNO to measure the flow of liquids with high concentration and low viscosity like water, diesel, engine oil, milk, paint, detergent, honey, etc. (no impurity in liquid)
+
+Features
+Gravity interface, easy to wire
+Wide voltage of 3.5~24V
+Measure the flow of the high-concentration but low-viscosity liquid
+RoHS compliant
+Specification
+Operating Voltage: DC3.5~24V
+Operating Current: ≤10mA (DC5V)
+Output Mode: NPN pulse signal
+Pipe Diameter: G3/4
+Thread I.D.: 16mm/0.63"
+Thread O.D.: 26mm/1.02"
+Thread Length: 18.7mm/0.74"
+Water Pressure Resistance: ≤1.2MPA
+Insulation Resistance: >100MΩ
+Flow Range: 30-3000L/H
+Error: ±1% (20-3000L/H)
+High Level of Output Pulse: >DC4.7V (input voltage DC5V)
+Low Level of Output Pulse: <DC0.5V (input voltage DC5V)
+Duty Cycle of Output Pulse: 50%±10%
+Flow & Pulse Correlation: 1L=75 pulses
+Operating Temperature: ≤80°C
+Operating Humidity: 35%~90%RH (no frosting)
+Storage Temperature: -25°~+80°C
+Storage Humidity: 25%~95%RH
+Dimensions: 92×47×39mm/3.62×1.85×1.54"
