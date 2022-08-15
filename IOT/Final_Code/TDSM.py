@@ -7,21 +7,21 @@ import lcd
 import requests
 
 def sendMsg(sms_api_msg_body):
-    sms_api_id = "aptech15"
-    sms_api_password = "111554"
-    sms_api_number = '923131115563' 
-    sms_api_brand_name= "APTECH KOR"
-    url = "http://api.m4sms.com/api/sendsms?id="+sms_api_id+"&pass="+sms_api_password+"&mobile="+sms_api_number+"&brandname="+sms_api_brand_name+"&msg="+sms_api_msg_body+"&language=English&network=1;"
+    sms_api_id = "####"
+    sms_api_password = "####"
+    sms_api_number = '#####' 
+    sms_api_brand_name= "####"
+    url = "3333333333333333333333333333333333333333333333"
     r = requests.get(url)
     print(r.text)
 
 def sendWhatsAppMsg():
     headers = {
-    'Authorization': 'Bearer EAAKqBIer3dwBAFZA7t3RkXtgaqWiKipZBujVx47OwY3Sja1fJ992MUBEc9rx4XB5ZAIZCZCgwOoyhZAQwuO8GWh1j0iFmwuNmAJrecPWSLTyaONjNHd392Y3JOqn6ouXLyavC4FXU8dQGgEcDq3flwjEeW6e2D6ac3DbqiyqqmtJ0okRVXyAwxxZBH1idZCwWQjDm0N0RnbTGAZDZD',
+    'Authorization': '#############################6ouXLyavC4FXU8dQGgEcDq3flwjEeW6e2D6ac3DbqiyqqmtJ0okRVXyAwxxZBH1idZCwWQjDm0N0RnbTGAZDZD',
     'Content-Type': 'application/json',
     }
     data = '{ \\"messaging_product\\": \\"whatsapp\\", \\"to\\": \\"923457847091\\", \\"type\\": \\"template\\", \\"template\\": { \\"name\\": \\"hello_world\\", \\"language\\": { \\"code\\": \\"en_US\\" } } }'
-    response = requests.post('https://graph.facebook.com/v13.0/109450551816278/messages', headers=headers, data=data)
+    response = requests.post('3333', headers=headers, data=data)
 
 i2c = busio.I2C(board.SCL, board.SDA)  
 
