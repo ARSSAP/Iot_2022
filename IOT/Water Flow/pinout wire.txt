@@ -1,3 +1,0 @@
-Green Wire	OUT	Signal Output
-Red Wire	VCC	Positive Power Supply 3.5V-24V
-Black Wire	GND	Negative Power Supply
