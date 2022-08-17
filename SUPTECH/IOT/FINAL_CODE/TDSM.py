@@ -155,8 +155,7 @@ while run:
         displayLCD(1,"Water: " + STATUS,1)
         sleep(5)
         displayLCD(1,LINE1,1)
-        sleep(2)
-        displayLCD(1,LINE2,1)
+        displayLCD(2,LINE2,2)
         try:
             db.insert_one(sensor_log)
             print("Data logged successfully in db")
@@ -170,8 +169,7 @@ while run:
         displayLCD(1,"Water: " + STATUS,1)
         sleep(5)
         displayLCD(1,LINE1,1)
-        sleep(2)
-        displayLCD(2,LINE2,1)
+        displayLCD(2,LINE2,2)
         try:
             db.insert_one(sensor_log)
             print("Data logged successfully in db")
